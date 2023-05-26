@@ -1,0 +1,2 @@
+$arrema
+"Una cadena diferente…"

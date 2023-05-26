@@ -1,0 +1,7 @@
+lex.yy.c
+a.out
+tokensGenerales.txt
+tablaPalabrasReservadas.txt
+tablaCadenas.txt
+tablaConsReales.txt
+PRUEBAS/
