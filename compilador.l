@@ -9,8 +9,9 @@
             a las clases abajo descritas.
 
     Date: 03/Dic/2022 - 05/Dic/2022
-    Objetivo 2: Elaborar un analizador sintáctico en lex/flez que
-            reconozca las estructuras gramaticales definidas.
+    Objetivo 2: Construir, en un mismo programa, los analizadores Léxico y Sintáctico Descendente Recursivo que
+    revisen programas escritos en el lenguaje definido por la gramática del Anexo A de este
+    documento.
     */
 
     /*Librerias utilizadas.*/
